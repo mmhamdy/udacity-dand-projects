@@ -61,10 +61,10 @@ lower loan amounts which may indicate that Prosper ratings are a good estimate f
 
 ## Resources
 
-[Wikipedia article about Prosper](https://en.wikipedia.org/wiki/Prosper_Marketplace)
-[Replacing multiple values in pandas](https://stackoverflow.com/questions/22100130/pandas-replace-multiple-values-one-column)
-[What to consider when creating pie charts](https://academy.datawrapper.de/article/127-what-to-consider-when-creating-a-pie-chart)
-[Correlation betweem two columns in pandas](https://stackoverflow.com/questions/42579908/use-corr-to-get-the-correlation-between-two-columns?noredirect=1&lq=1)
-[Seaborn PairGrid documentation](https://seaborn.pydata.org/generated/seaborn.PairGrid.html)
-[Matplotlib hexbin documentation](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.hexbin.html)
-[seaborn regplot documentation](https://seaborn.pydata.org/generated/seaborn.regplot.html)
+- [Wikipedia article about Prosper](https://en.wikipedia.org/wiki/Prosper_Marketplace)
+- [Replacing multiple values in pandas](https://stackoverflow.com/questions/22100130/pandas-replace-multiple-values-one-column)
+- [What to consider when creating pie charts](https://academy.datawrapper.de/article/127-what-to-consider-when-creating-a-pie-chart)
+- [Correlation betweem two columns in pandas](https://stackoverflow.com/questions/42579908/use-corr-to-get-the-correlation-between-two-columns?noredirect=1&lq=1)
+- [Seaborn PairGrid documentation](https://seaborn.pydata.org/generated/seaborn.PairGrid.html)
+- [Matplotlib hexbin documentation](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.hexbin.html)
+- [seaborn regplot documentation](https://seaborn.pydata.org/generated/seaborn.regplot.html)
