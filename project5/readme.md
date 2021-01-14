@@ -1,4 +1,4 @@
-# Prosper Loans Data Exploration
+# Communicating data findings from the analysis of Prosper's Loan data
 
 ## Dataset
 
