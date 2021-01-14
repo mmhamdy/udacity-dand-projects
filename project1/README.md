@@ -1,1 +1,1 @@
-# Exploring Weather Trends In Cairo.
+# Exploring Weather Trends In Cairo
