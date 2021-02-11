@@ -11,7 +11,7 @@ Exploring The Movie Database (TMDb) to answer chosen questions about movies and 
 
 ## Tools
 
-Python (numpy, pandas, matplotlib, seaborn)
+- Python (numpy, pandas, matplotlib, seaborn)
 
 ## Findings
 
