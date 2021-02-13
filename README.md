@@ -5,6 +5,8 @@
 
 Analyzing local and global temperature data and comparing the temperature trends in Cairo to overall global temperature trends.
 
+[More Details](https://github.com/mmhamdy/udacity-dand-projects/blob/main/project1/README.md) | [View Report](https://github.com/mmhamdy/udacity-dand-projects/blob/main/project1/weather_trends_cairo.pdf)
+
 ## Project 02: [Investigating 10,000 movies collected from The Movie Database (TMDb)](https://github.com/mmhamdy/udacity-dand-projects/tree/main/project2)
 
 Exploring The Movie Database (TMDb) to answer chosen questions about movies and genres:
@@ -14,9 +16,13 @@ Exploring The Movie Database (TMDb) to answer chosen questions about movies and 
 - Who is the most accomplished director in terms of total revenues and total average scores of his movies?
 - Who are the most productive directors in terms of number of movies made?
 
+[More Details](https://github.com/mmhamdy/udacity-dand-projects/blob/main/project2/README.md) | [View Notebook](https://github.com/mmhamdy/udacity-dand-projects/blob/main/project2/tmdb_analysis.ipynb)
+
 ## Project 03: [Analyzing A/B Test Results for an e-commerce website](https://github.com/mmhamdy/udacity-dand-projects/tree/main/project3)
 
 Analyzing the results of an A/B test for an e-commerce website. The goal is to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+
+[More Details](https://github.com/mmhamdy/udacity-dand-projects/blob/main/project3/README.md) | [View Notebook](https://github.com/mmhamdy/udacity-dand-projects/blob/main/project3/Analyze_ab_test_results_notebook.ipynb)
 
 ## Project 04: [Wrangling, analyzing, and visualizing a tweet archive from Twitter](https://github.com/mmhamdy/udacity-dand-projects/tree/main/project4)
 
@@ -26,10 +32,14 @@ Wrangling WeRateDogs Twitter data to create interesting and trustworthy analyses
 - Which dog stage has the highest average rating?
 - Are high rated dogs more likely to be favorited than low rated ones?
 
+[More Details](https://github.com/mmhamdy/udacity-dand-projects/blob/main/project4/README.md) | [View Notebook](https://github.com/mmhamdy/udacity-dand-projects/blob/main/project4/wrangle_act.ipynb)
+
 ## Project 05: [Communicating data findings from the analysis of Prosper's Loan data](https://github.com/mmhamdy/udacity-dand-projects/tree/main/project5)
 
 The data consists of information regarding more than 100,000 loans on Prosper with more than 80 features.
 The dataset can be found [here](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1608053448414000&usg=AOvVaw3QHm2jzSaCPaBUbEvUXtSg),
 with feature documentation available [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0). We have selected some features of interest from the available 81 features, performed data cleaning to remove duplicates, missing values, and make the data more consistent for analysis. These changes were saved to a new dataset `prosper_loan_sub.csv`, which is attached along other project files.
+
+[More Details](https://github.com/mmhamdy/udacity-dand-projects/blob/main/project5/readme.md) | [View Notebook](https://github.com/mmhamdy/udacity-dand-projects/blob/main/project5/Project_Loans_Part1.ipynb)
 
 ![](img/certificate.jpg)
