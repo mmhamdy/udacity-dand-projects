@@ -7,7 +7,7 @@ Analyzing local and global temperature data and comparing the temperature trends
 
 [More Details](https://github.com/mmhamdy/udacity-dand-projects/blob/main/project1/README.md) | [View Report](https://github.com/mmhamdy/udacity-dand-projects/blob/main/project1/weather_trends_cairo.pdf)
 
-## Project 02: [Investigating 10,000 movies collected from The Movie Database (TMDb)](https://github.com/mmhamdy/udacity-dand-projects/tree/main/project2)
+## Project 02: [Investigating 10,000 movies collected from The Movie Database](https://github.com/mmhamdy/udacity-dand-projects/tree/main/project2)
 
 Exploring The Movie Database (TMDb) to answer chosen questions about movies and genres:
 - How did several genres fare through the years?
@@ -34,7 +34,7 @@ Wrangling WeRateDogs Twitter data to create interesting and trustworthy analyses
 
 [More Details](https://github.com/mmhamdy/udacity-dand-projects/blob/main/project4/README.md) | [View Notebook](https://github.com/mmhamdy/udacity-dand-projects/blob/main/project4/wrangle_act.ipynb)
 
-## Project 05: [Communicating data findings from the analysis of Prosper's Loan data](https://github.com/mmhamdy/udacity-dand-projects/tree/main/project5)
+## Project 05: [Communicating data findings from the analysis of Prosper's Loans](https://github.com/mmhamdy/udacity-dand-projects/tree/main/project5)
 
 The data consists of information regarding more than 100,000 loans on Prosper with more than 80 features.
 The dataset can be found [here](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1608053448414000&usg=AOvVaw3QHm2jzSaCPaBUbEvUXtSg),
