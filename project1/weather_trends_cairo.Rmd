@@ -18,7 +18,7 @@ The following SQL queries were used:
 
 ## Analyzing the data:
 ### Analysis of data was done in R and was performed in RStudio:  
-- The csv file was imported using the `read.csv()` function provided by
+- The csv file was imported using the `read_csv()` function provided by
 the `readr` package.  
 - 5, 10, and 20 years moving averages were calculated for both Cairo and global
 average temperatures using the `rollmean()` function provided by the `zoo` package.
@@ -31,7 +31,7 @@ library(ggplot2)
 library(zoo)
 
 #importing the data set 
-cairo <- read.csv("cairo_results.csv")
+cairo <- read_csv("cairo_results.csv")
 glimpse(cairo)
 
 #calculating 5,10, and 20 year moving averages using the rollmean function
